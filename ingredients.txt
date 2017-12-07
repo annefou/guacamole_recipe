@@ -1,1 +1,4 @@
-avocado
+- avocado
+- lime
+- small tomato
+- white onion
